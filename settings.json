@@ -56,7 +56,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": false,
-    "beds": true,
+    "beds": false,
     "chat": false,
     "console-commands": true
   },
@@ -65,8 +65,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": true,
-    "place-night": true
+    "pick-up-day": false,
+    "place-night": false
   },
   "discord": {
     "enabled": false,
